@@ -1,0 +1,21 @@
+Random data size: 10000
+Ordered data size: 10000
+Nearly ordered data size: 10000
+
+Comparing with random data
+BST insertion time: 9 ms
+BST search time: 7 ms
+AVL insertion time: 10 ms
+AVL search time: 5 ms
+
+Comparing with ordered data
+BST insertion time: 178 ms
+BST search time: 127 ms
+AVL insertion time: 8 ms
+AVL search time: 4 ms
+
+Comparing with nearly ordered data
+BST insertion time: 36 ms
+BST search time: 35 ms
+AVL insertion time: 11 ms
+AVL search time: 4 ms
